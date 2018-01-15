@@ -1,0 +1,156 @@
+html {
+	font-family: sans-serif;
+	
+}
+
+body {
+    font-size: 14px;
+	color: white;
+	background-color: #1a0000;
+	background-image: url("oven.jpg");
+	/* Full height */
+    height: 80%; 
+    /* Center and scale the image nicely */
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+h3 {
+    
+    font-weight: 900;
+    font-size: 20px;
+    color: orange;
+}
+
+
+.menuSize {
+ 
+	float: left;
+	color: #e0ebeb;
+	width: 50%;
+	
+	
+}
+
+
+.menuMeat {
+	float: right;
+	color: #e0ebeb;
+	width: 50%;
+	
+	
+}
+
+.menuCheese {
+    float: left;
+	color: #e0ebeb;
+	width: 50%;
+	
+	
+}
+
+.menuCrust {
+    float: right;
+	color: #e0ebeb;
+	width: 50%;
+	
+}
+
+.menuSauce {
+    float: left;
+	color: #e0ebeb;
+	width: 50%;
+}
+
+
+.menuVeggies {
+    float: right;
+	color: #e0ebeb;
+	width: 50%;
+}
+
+
+.button {
+ }
+
+.bottom {
+	height: 1000px;
+}
+
+.cart {
+	
+}
+
+#menuBG {
+}
+
+#sizeText {
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+	border: 3px solid maroon;
+	background-color: black;
+}
+
+#meatText {
+	margin: auto;
+    width: 50%;
+    border: 3px solid maroon;
+	background-color: black;
+    padding: 10px;
+}
+
+#cheeseText {
+	margin: auto;
+    width: 50%;
+    border: 3px solid maroon;
+	background-color: black;
+    padding: 10px;
+}
+
+#crustText {
+	margin: auto;
+    width: 50%;
+    border: 3px solid maroon;
+	background-color: black;
+    padding: 10px;
+}
+
+#sauceText {
+	margin: auto;
+    width: 50%;
+	border: 3px solid maroon;
+	background-color: black;
+    padding: 10px;
+}
+
+#veggiesText {
+	margin: auto;
+    width: 50%;
+    border: 3px solid maroon;
+	background-color: black;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
